@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Evan Alioto!
 
  🔭 I’m currently working on completing the UCSD Extensions Full Stack Web Development Bootcamp
 - 🌱 I’m currently learning JavaScript, Python, SQL, NOSQL, Mongoose, Node.js, Express and looking to learn more everyday 

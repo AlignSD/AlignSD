@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there 👋, I'm Evan Alioto!
 ![I'm Evan Alioto!](https://media-exp1.licdn.com/dms/image/C4E16AQHwkqqj5ovycQ/profile-displaybackgroundimage-shrink_350_1400/0/1619046734790?e=1632960000&v=beta&t=Rvz2o-mbqHpKf9XD-iYIQGb-kq4_C-ZUFiAl9H8WvY8)
 
-## I'm Evan Alioto!
+
 
   I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I fell at home using JavaScript and React but I've recently branched out to Java as well making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites.
 

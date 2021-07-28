@@ -3,12 +3,13 @@
 
 
 
-  I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I fell at home using JavaScript and React but I've recently branched out to Java as well making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites.
+  I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I feel at home using JavaScript and React but I've recently branched out to Java as well, making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites. I'm currently looking for collaboration and job opportunities.
 
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
 
+## What I'm working on
 - 🔭 I’m currently working on Landing a job as a developer 
 - 🌱 I’m currently learning Java, JavaScript, OOP 
 - 👯 I’m looking to collaborate on JavaScript projects 

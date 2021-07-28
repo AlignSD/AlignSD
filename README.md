@@ -18,21 +18,13 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' stroke="currentColor" style="background-color:green" height='40'>](https://www.linkedin.com/in/Evan-Alioto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Evan_SD/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AlignSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12342156)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aligncenter.io/)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlignSD&theme=react" align="center"></img>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlignSD&theme=react)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlignSD&show_icons=true&theme=react" align="center"></img>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlignSD&show_icons=true&theme=react)  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlignSD&theme=react" align="center"></img>
-</p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlignSD&theme=react)  
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/AlignSD" align="center"></img>
-</p>
+![GitHub metrics](https://metrics.lecoq.io/AlignSD)  
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/AlignSD" align="center"></img>

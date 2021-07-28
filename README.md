@@ -5,9 +5,8 @@
 
   I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I feel at home using JavaScript and React but I've recently branched out to Java as well, making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites. I'm currently looking for collaboration and job opportunities.
 
-## Skills and Experience
-* ⚛️ React
-* 💻 HTML, CSS, JS
+## Top Technologies
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MYSQL](https://img.shields.io/badge/-MYSQL-e535ab?style=for-the-badge&labelColor=black&logo=MYSQL&logoColor=e535ab)](#)
 
 ## What I'm working on
 - 🔭 I’m currently working on Landing a job as a developer 
@@ -17,8 +16,7 @@
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I've built guitars! 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlignSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Evan-Alioto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Evan_SD/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AlignSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12342156)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aligncenter.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' stroke="currentColor" style="background-color:green" height='40'>](https://www.linkedin.com/in/Evan-Alioto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Evan_SD/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AlignSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12342156)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aligncenter.io/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlignSD)](https://github.com/anuraghazra/github-readme-stats)
 

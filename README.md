@@ -9,7 +9,7 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MYSQL](https://img.shields.io/badge/-MYSQL-e535ab?style=for-the-badge&labelColor=black&logo=MYSQL&logoColor=e535ab)](#) [![MongoDB](https://img.shields.io/badge/-MongoDB-32CD32?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=32CD32)](#)
 
 ## What I'm working on
-- 🔭 I’m currently working on Landing a job as a developer.
+- 🔭 I’m currently working on Landing a job as a developer. Let me know of any opportunities!.
 - 🌱 I’m currently learning Java, JavaScript, OOP.
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me: EvanJAlioto@gmail.com

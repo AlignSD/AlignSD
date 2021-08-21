@@ -3,7 +3,7 @@
 
 
 
-  I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I feel at home using JavaScript and React but I've recently branched out to Java as well, making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites. I'm currently looking for collaboration and job opportunities.
+  I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I feel at home using JavaScript and React but I've recently branched out to Java as well, making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites. I'm currently looking for collaboration and job opportunities, So feel free to reach out!
 
 ## Top Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MYSQL](https://img.shields.io/badge/-MYSQL-e535ab?style=for-the-badge&labelColor=black&logo=MYSQL&logoColor=e535ab)](#) [![MongoDB](https://img.shields.io/badge/-MongoDB-32CD32?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=32CD32)](#)

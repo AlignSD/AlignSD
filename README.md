@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Evan Alioto!
+# Hi there 👋, I'm Evan Alioto and I'm a Full-Stack Web Developer!
 ![I'm Evan Alioto!](https://media-exp1.licdn.com/dms/image/C4E16AQHwkqqj5ovycQ/profile-displaybackgroundimage-shrink_350_1400/0/1619046734790?e=1632960000&v=beta&t=Rvz2o-mbqHpKf9XD-iYIQGb-kq4_C-ZUFiAl9H8WvY8)
 
 

@@ -3,17 +3,16 @@
 
 
 
-  I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I feel at home using JavaScript and React but I've recently branched out to Java as well, making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites. I'm currently looking for collaboration and job opportunities, So feel free to reach out!
+  I'm from San Diego, and I do full-stack web development and host my own blog talking about various programming tips'n'tricks. I love learning new things that help me become a better developer. I typically code with JS and SQL for the most part but I've recently branched out to Java as well, making little minecraft mods for my 12 year old son. I enjoy taking wireframes and building them into real sites. I'm currently looking for collaboration and job opportunities, So feel free to reach out!
 
 ## Top Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MYSQL](https://img.shields.io/badge/-MYSQL-e535ab?style=for-the-badge&labelColor=black&logo=MYSQL&logoColor=e535ab)](#) [![MongoDB](https://img.shields.io/badge/-MongoDB-32CD32?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=32CD32)](#)
 
 ## What I'm working on
-- 🔭 I’m currently working on Landing a job as a developer and doing Open Source Projects https://github.com/catnippers/catnippers-landing-page
-- 🌱 I’m currently learning Java, JavaScript, OOP.
+- 🔭 Data Migration using Sql Server, Node, JS.
+- 🌱 Looking to expand into other frameworks/stacks/languages.
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me: EvanJAlioto@gmail.com
-- 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I used to build drift cars!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' stroke="currentColor" style="background-color:green" height='40'>](https://www.linkedin.com/in/Evan-Alioto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Evan_SD/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' style="fill: white" alt='twitter' height='40'>](https://twitter.com/AlignSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12342156)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aligncenter.io/)  
